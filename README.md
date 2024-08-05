@@ -27,4 +27,5 @@ Excel Functions and Modeling:
 1. Use various Excel functions
 
 ## 📊 Kaggle Dataset:
+<img src="https://storage.googleapis.com/kaggle-datasets-images/854/1560/127b0b8c8b15b9eaa8a0c3f3e49ced0d/dataset-thumbnail.jpg">
 <a href="https://www.kaggle.com/datasets/dgawlik/nyse/data" target="_blank">New York Stock Exchange S&P 500 companies historic prices with fundamental data</a>
