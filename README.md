@@ -1,4 +1,4 @@
-# YLL_UD_P2_NYSEData
+# YLL-Udacity-Project2-NYSE
 Udacity NYSE Data Project 2
 
 ## Key Objective of Project 2:
