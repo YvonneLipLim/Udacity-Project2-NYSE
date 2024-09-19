@@ -5,7 +5,7 @@ Temasek Polytechnic Udacity Business Analysis
 
 <h3>Key Objective of Project 2:</h3>
 Draw a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. Perform an analysis and create visual tools using spreadsheets to communicate results in informative ways.
-<br>
+<br><br>
 
 <h3>Project Requirement:</h3>
 Submission: 
